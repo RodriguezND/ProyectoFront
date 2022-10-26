@@ -75,9 +75,9 @@ img{
 
 
 @media only screen and (max-width: 700px) {
-    main {
+    /* main {
         background: red;
-    }
+    } */
     
     .tarjetaCarrusel{
         max-width: 100%;
